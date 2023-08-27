@@ -63,5 +63,5 @@ body {
   background-color: #fff;
   color: #333;
   text-align: center;
-  width: 195px;
+  min-width: 195px;
 }
